@@ -14,14 +14,14 @@ Add your timetable
 Execute the program
 
 # CODE
-!DOCTYPE html>
+<!DOCTYPE html>
 <head>
 <title>SEC SLOT TIMETABLE</title>
 </head>
-<img src="logo.png" width='600' align='center'>
+<img src="logo copy.png" width='600' align='center'>
 <body>
 <table BORDER='3' width='600' bgcolor='cyan' cellspacing='3' cellpaddling='3'>
-<CAPTION align="above">SLOT TIMETABLE-SANJAY (23013084)</CAPTION>
+<CAPTION align="above">SLOT TIMETABLE-SANJAY.M (23013084) </CAPTION>
 <tr>
 <th align="center" bgcolor="yellow">Day/Time</th>
 <th align="center" bgcolor="yellow">Monday</th>
@@ -51,7 +51,6 @@ Execute the program
 <tr>
 <th align="center" bgcolor="yellow">12-1</th>
 <td align="center" bgcolor="cyan" colspan="5">LUNCH</td>
-tr>
 <tr>
 <th align="center" bgcolor="yellow">1-3</th>
 <td align="center" bgcolor="cyan" colspan="2">FREE SLOT</td>
@@ -108,5 +107,7 @@ tr>
 
 
 # OUPUT
+![Uploading slot timetable sanjay.png…]()
+
 ![SANJAY SLOT TIMETABLE](https://github.com/sanjayofficial2005/timetable/assets/148048602/51a552e2-02b9-4ba2-8e8a-b0f40ebb2909)
 
