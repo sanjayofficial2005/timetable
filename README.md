@@ -13,7 +13,8 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+# CODE:
+```python
 <!DOCTYPE html>
 <head>
 <title>SEC SLOT TIMETABLE</title>
@@ -104,9 +105,13 @@ Execute the program
 </tr>
 </body>
 </html>
+```
 
 
 # OUPUT
 ![slot timetable sanjay](https://github.com/sanjayofficial2005/timetable/assets/148048602/72cc4a68-1c48-4f52-9366-c3664588e7b0)
+
+# RESULT :
+The SEC Slot Time Table Created sucessfully.
 
 
